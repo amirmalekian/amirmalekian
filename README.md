@@ -8,13 +8,10 @@
   <img src="https://raw.githubusercontent.com/amirmalekian/Mars/main/Yellow%20%26%20Black%20Modern%20Profile%20LinkedIn%20Banner%20(1).png?token=GHSAT0AAAAAABTQVWJUP7LHKAT2EK3K5STMYTNT4IQ" alt="Title"></img>
 </div>
 
-<div align='right'>
-  ![](https://visitor-badge.glitch.me/badge?page_id=amirmalekian)
-</div>
 
 ## About Me <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"></img> 
 
-## <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="300" />
+## <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="320" />
 
 I'm a passionate and experienced self-taught MERN Stack Web Developer and a freelance frontend developer.
 
