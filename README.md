@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Amirhossein;Welcome+to+my+profile!" alt="Title"></img>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amirmalekian/Mars/main/Yellow%20%26%20Black%20Modern%20Profile%20LinkedIn%20Banner%20(1).png?token=GHSAT0AAAAAABTQVWJUP7LHKAT2EK3K5STMYTNT4IQ" alt="Title"></img>
+</div>
+
 
 <!--
 **amirmalekian/amirmalekian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
