@@ -1,5 +1,10 @@
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=600&height=70&lines=Heyyy!+I'm+Amirhossein;Welcome+to+my+profile!;MERN+Stack+developer" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Amirhossein;Computer+Science+Student;Full-Stack+Javascript+Developer;Always+learning+new+things;" alt="Title"></img>
 </div>
 
 <br/>
@@ -10,23 +15,25 @@
   
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> About Me
+## 👨‍💻 About Me
 
 ## <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a passionate and experienced self-taught MERN stack web developer and a freelance frontend developer from Iran.
+I'm a passionate self-taught MERN Stack Web Developer and a Freelance Frontend Developer from Iran.
 
-I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I would love to be a small part of this community by collaborating and sharing knowledge.
+As a front-end developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+I'm also an open-source enthusiast & maintainer and I would love to be a small part of this community by collaborating and sharing knowledge.
 
-My motto of being determined towards the software world and its development for the betterment of the standard of living of society
+My motto of being determined toward the software world and its development for the betterment of the standard of living of society
 
-- :school: I'm currently student at **Kashan University**
-- :books: My major is **Computer Science**
+- 🎓  I'm currently studying Computer Science at the University of Kashan
+- 🌱 I'm on track to learning more about Software Architecture, Systems Design, Microservices, and Cloud-Native.
 - 📫 Feel free to contact me on [LinkedIn](http://linkedin.com/in/amirhossein-malekian-8a267a1b1)
 
+<br />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Languages and Tools
-## <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
+## <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
 <code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
@@ -46,18 +53,30 @@ My motto of being determined towards the software world and its development for 
 <code><img title="Gatsby" alt="Gatsby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" /></code>
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Heroku" alt="heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></code>
+
 <br />
+
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-stats"/>
 </div>
+
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=amirmalekian&theme=react-dark"/>
+<!--   <img align="left" src="https://github-profile-trophy.vercel.app/?username=amirmalekian&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" /> -->
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Find me on:
+<details>
+<summary>Profile visitors</summary>
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/amirmalekian/count.svg">
+</div>
+</details>
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me:
 
 <p align="center">
   <a href="amirho3einmalekian@gmail.com" >
@@ -83,24 +102,7 @@ My motto of being determined towards the software world and its development for 
   <img align="center" alt="Amirhossein Malekian | Stackoverflow" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" />
 </a> &nbsp;&nbsp;
 <p> 
-  
  
-  
-
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Amirhossein Malekian
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=F38F02&center=true&vCenter=true&width=300&height=50&lines=Thanks+for+your+visit!;Have+a+nice+day!;" alt="Footer"></img>
 </div>
-
-<!--
-**amirmalekian/amirmalekian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
- Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
