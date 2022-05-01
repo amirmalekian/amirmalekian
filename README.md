@@ -77,7 +77,7 @@ My motto of being determined towards the software world and its development for 
 </a> &nbsp;&nbsp;
   
   
-    <a href="https://stackoverflow.com/users/14816783/amirhossein" target="_blank">
+  <a href="https://stackoverflow.com/users/14816783/amirhossein" target="_blank">
   <img align="center" alt="Amirhossein Malekian | Stackoverflow" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" />
 </a> &nbsp;&nbsp;
 <p> 
