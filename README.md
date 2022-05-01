@@ -63,7 +63,8 @@ My motto of being determined toward the software world and its development for t
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&background=0d1117&hide_border=true" />
+<!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&background=0d1117&hide_border=true" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" />
   <img src="https://activity-graph.herokuapp.com/graph?username=amirmalekian&theme=react-dark"/>
 <!--   <img align="left" src="https://github-profile-trophy.vercel.app/?username=amirmalekian&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" /> -->
 </div>
