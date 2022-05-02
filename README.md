@@ -28,7 +28,7 @@ My motto of being determined toward the software world and its development for t
 
 - 🎓  I'm currently studying Computer Science at the University of Kashan
 - 🌱 I'm on track to learning more about Software Architecture, Systems Design, Microservices, and Cloud-Native.
-- 📫 Feel free to contact me on [LinkedIn](http://linkedin.com/in/amirhossein-malekian-8a267a1b1)
+- 📫 Feel free to contact me on [LinkedIn](www.linkedin.com/in/amirhosseinmalekian)
 
 <br />
 
@@ -85,7 +85,7 @@ My motto of being determined toward the software world and its development for t
   </a> &nbsp;&nbsp;
   
   
-  <a href="http://linkedin.com/in/amirhossein-malekian-8a267a1b1" target="_blank">
+  <a href="www.linkedin.com/in/amirhosseinmalekian" target="_blank">
   <img align="center" alt="Amirhossein Malekian | Linkedin" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
 </a> &nbsp;&nbsp;
   
