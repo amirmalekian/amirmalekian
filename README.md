@@ -69,13 +69,6 @@ My motto of being determined toward the software world and its development for t
 <!--   <img align="left" src="https://github-profile-trophy.vercel.app/?username=amirmalekian&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" /> -->
 </div>
 
-<details>
-<summary>Profile visitors</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/amirmalekian/count.svg">
-</div>
-</details>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me:
 
