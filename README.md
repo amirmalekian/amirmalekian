@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-## <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 I'm a passionate self-taught MERN Stack Web Developer and a Freelance Frontend Developer from Iran.
 
