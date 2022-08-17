@@ -59,14 +59,21 @@ My motto of being determined toward the software world and its development for t
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs"/>
+
+<div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-stats"/>
+</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" />
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs"/>
+
 </div>
 
 <div align="center">
 <!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&background=0d1117&hide_border=true" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=amirmalekian&theme=react-dark"/>
+  
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=amirmalekian&theme=react-dark"/> -->
 <!--   <img align="left" src="https://github-profile-trophy.vercel.app/?username=amirmalekian&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" /> -->
 </div>
 
