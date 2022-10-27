@@ -58,24 +58,24 @@ My motto of being determined toward the software world and its development for t
 <br />
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> About Some Stats
-<div align="center">
 
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-stats"/>
-</div>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirmalekian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!--
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&langs_count=8&theme=algolia"/>
+  -->
+</a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" />
+<!--
+<div align="center">
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs"/>
 
 </div>
-
-<div align="center">
-<!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&background=0d1117&hide_border=true" /> -->
-  
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=amirmalekian&theme=react-dark"/> -->
-<!--   <img align="left" src="https://github-profile-trophy.vercel.app/?username=amirmalekian&title=Commit,Stars,Repositories,PullRequest,Followers&theme=darkhub" /> -->
-</div>
+-->
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
