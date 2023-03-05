@@ -59,15 +59,12 @@ My motto of being determined toward the software world and its development for t
 
 <div align="center">
   
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmalekian&theme=algolia&line_height=40&hide=css"/>
+<!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmalekian&theme=algolia&line_height=40&hide=css"/> -->
   
 <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs" /> -->
-<!-- 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&langs_count=8&theme=algolia"/> -->
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&langs_count=8&theme=algolia"/>
 </div>
-
-<br/>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
