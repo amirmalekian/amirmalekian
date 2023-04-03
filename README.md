@@ -64,17 +64,14 @@ My motto of being determined toward the software world and its development for t
 <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs" /> -->
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-<p align="center">
-
+ 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirmalekian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   
-<br/>
-  
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" />
+</div>
 
-</p>
+<!-- <p align="center"> -->  
+<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" /> -->
+<!-- </p> -->
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
