@@ -84,19 +84,19 @@ My motto is determined toward the software world and its development for the bet
 
 <p align="center">
 
-<a href="amirho3einmalekian@gmail.com" target="_blank">
+<a href="mailto:amirho3einmalekian@gmail.com" target="_blank" alt="Amirhossein Malekian's E-mail">
     <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 	
-<a href="https://www.linkedin.com/in/amirmalekian/" target="_blank">
+<a href="https://www.linkedin.com/in/amirmalekian/" target="_blank" alt="Amirhossein Malekian's Linkedin">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://dev.to/amirmalekian" target="_blank">
+<a href="https://dev.to/amirmalekian" target="_blank" alt="Amirhossein Malekian's Dev">
     <img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/14816783/amirhossein" target="_blank">
+<a href="https://stackoverflow.com/users/14816783/amirhossein" target="_blank" alt="Amirhossein Malekian's Stackoverflow">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
