@@ -3,6 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<h2 align="center">
+Improving the world with quality software
+</h2>
+
 ## 👨‍💻 About Me
 
 ## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
