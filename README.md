@@ -84,7 +84,7 @@ My motto is determined toward the software world and its development for the bet
 
 <p align="center">
 
-<a href="mailto:amirho3einmalekian@gmail.com" target="_blank">
+<a href="amirho3einmalekian@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 	
