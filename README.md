@@ -3,10 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Amirhossein;Computer+Science+Student;Full-Stack+Javascript+Developer;Always+learning+new+things;" alt="Title"></img>
-</div>
-
 ## 👨‍💻 About Me
 
 ## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
