@@ -7,26 +7,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=60&color=F38F02&center=true&vCenter=true&width=700&height=70&lines=Heyyy!+I'm+Amirhossein;Computer+Science+Student;Full-Stack+Javascript+Developer;Always+learning+new+things;" alt="Title"></img>
 </div>
 
-<br/>
-
-<div align="center">
-  
-  ![github-banner](https://user-images.githubusercontent.com/79522638/166133864-99e5d96a-5928-42a4-9439-3b3ee9bb7823.png)
-  
-</div>
-
 ## 👨‍💻 About Me
 
 ## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a passionate self-taught MERN Stack Web Developer and a Freelance Frontend Developer from Iran.
+I'm a passionate self-taught Web Developer and now I'm focused on learning and developing with the Golang language.
 
-As a front-end developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+As a Software Engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
 I'm also an open-source enthusiast & maintainer and I would love to be a small part of this community by collaborating and sharing knowledge.
 
-My motto of being determined toward the software world and its development for the betterment of the standard of living of society
+My motto is determined toward the software world and its development for the betterment of the standard of living of society
 
-- 🎓  I'm currently studying Computer Science at the University of Kashan
 - 🌱 I'm on track to learning more about Software Architecture, Systems Design, Microservices, and Cloud-Native.
 - 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/amirmalekian)
 
@@ -35,23 +26,40 @@ My motto of being determined toward the software world and its development for t
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools
 
 ## <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
-<code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+          
+<code><img title="Golang" alt="golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /></code>
+<code><img title="grpc" alt="grpc" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></code>
+<code><img title="Python" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-<code><img title="MongoDB" alt="MongDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
-<code><img title="Express" alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-
-<code><img title="Graph" alt="Graph" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></code>
 <code><img title="Next.js" alt="next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
-<code><img title="Redux" alt="Redux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></code>
-<code><img title="Tailwind" alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></code>
-<code><img title="Python" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="Gatsby" alt="Gatsby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" /></code>
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="Heroku" alt="heroku" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></code>
+
+<code><img title="neovim" alt="neovim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></code>
+<code><img title="nginx" alt="nginx" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></code>
+<code><img title="linux" alt="linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></code>
+<code><img title="bash" alt="bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></code>
+<code><img title="MongoDB" alt="MongDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
+<code><img title="Sql" alt="sql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /></code>
+<code><img title="postgresql" alt="postgresql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
+<code><img title="Graph" alt="Graph" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></code>
+<code><img title="Redis" alt="redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></code>
+
+<code><img title="rabbit" alt="rabbit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" /></code>
+<code><img title="elastic" alt="elastic" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></code>
+<code><img title="kibana" alt="kibana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" /></code>
+<code><img title="docker" alt="docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
+<code><img title="Kuber" alt="kuber" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></code>
+<code><img title="prometheus" alt="prometheus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" /></code>
+<code><img title="grafana" alt="grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></code>
+<code><img title="ansible" alt="ansible" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" /></code>
+<code><img title="terraform" alt="terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /></code>
+
+
+
+
 
 <br />
 
@@ -79,28 +87,23 @@ My motto of being determined toward the software world and its development for t
 <br />
 
 <p align="center">
-  <a href="amirho3einmalekian@gmail.com" >
-    <img align="center" alt="Amirhossein Malekian | Gmail" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  
-  <a href="linkedin.com/in/amirmalekian" target="_blank">
-  <img align="center" alt="Amirhossein Malekian | Linkedin" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
-</a> &nbsp;&nbsp;
-  
-  
-   <a href="https://t.me/amiirmalekian" target="_blank">
-  <img align="center" alt="Amirhossein Malekian | Telegram" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-</a> &nbsp;&nbsp;
-  
-  <a href="https://dev.to/amirmalekian" target="_blank">
-  <img align="center" alt="Amirhossein Malekian | DEV" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" />
-</a> &nbsp;&nbsp;
-  
-  
-  <a href="https://stackoverflow.com/users/14816783/amirhossein" target="_blank">
-  <img align="center" alt="Amirhossein Malekian | Stackoverflow" width="25px" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" />
-</a> &nbsp;&nbsp;
+
+<a href="mailto:amirho3einmalekian@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+	
+<a href="https://www.linkedin.com/in/amirmalekian/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://dev.to/amirmalekian" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/14816783/amirhossein" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
 <p> 
  
 <div align="center">
