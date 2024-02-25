@@ -11,15 +11,13 @@ Improving the world with quality software
 
 ## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a passionate self-taught Web Developer and now I'm focused on learning and developing with the Golang language.
+I'm a Passionate Software Engineer with over 3 years of experience crafting and enhancing web applications. I Love Go, Python, and build robust and scalable apps with Kafka, Redis, and Kubernetes.
 
-As a Software Engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+As a dedicated Software Engineer with a Bachelor's degree in Computer Science, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+
 I'm also an open-source enthusiast & maintainer and I would love to be a small part of this community by collaborating and sharing knowledge.
 
-My motto is determined toward the software world and its development for the betterment of the standard of living of society
-
-- 🌱 I'm on track to learning more about Software Architecture, Systems Design, Microservices, and Cloud-Native.
-- 📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/amirmalekian)
+My motto is determined toward the software world and its development for the betterment of the standard of living of society.
 
 <br />
 
