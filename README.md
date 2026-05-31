@@ -11,13 +11,13 @@ Improving the world with quality software
 
 ## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a Passionate Software Engineer with over 3 years of experience crafting and enhancing web applications. I Love Go, Python, and build robust and scalable apps with Kafka, Redis, and Kubernetes.
+I'm a Passionate Software Engineer with over 6 years of experience crafting and enhancing web applications. I love Go and Python, and I build robust and scalable apps with Kafka, Redis, and Kubernetes.
 
-As a dedicated Software Engineer with a Bachelor's degree in Computer Science, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+As a dedicated Software Engineer with a Bachelor's degree in Computer Science, I enjoy using my obsessive attention to detail and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
 
-I'm also an open-source enthusiast & maintainer and I would love to be a small part of this community by collaborating and sharing knowledge.
+I'm an open-source enthusiast & maintainer, and I'd welcome the opportunity to contribute to this community by collaborating and sharing knowledge.
 
-My motto is determined toward the software world and its development for the betterment of the standard of living of society.
+My motto is focused on the software world and its development to improve society's standard of living.
 
 <br />
 
