@@ -11,7 +11,7 @@ Improving the world with quality software
 
 ## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm a Passionate Software Engineer with over 6 years of experience crafting and enhancing web applications. I love Go and Python, and I build robust and scalable apps with Kafka, Redis, and Kubernetes.
+I'm a Passionate Software Engineer with over 6 years of experience crafting and enhancing web applications. I love Go, Rust, and Python, and I build robust and scalable apps with Kafka, Redis, and Kubernetes.
 
 As a dedicated Software Engineer with a Bachelor's degree in Computer Science, I enjoy using my obsessive attention to detail and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
 
