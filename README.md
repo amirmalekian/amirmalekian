@@ -1,107 +1,130 @@
-<h3 align="center">
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+# Amirhossein Malekian
 
-<h2 align="center">
-Improving the world with quality software
-</h2>
+## Go Backend Engineer | Software Engineer | Open Source Contributor
 
-## 👨‍💻 About Me
+I am a software engineer focused on backend development, building reliable and maintainable software systems.
 
-## <img align="right" width='50%' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+With over 6 years of programming experience, I have worked across different areas of software development and gradually focused my career on backend engineering with Go.
 
-I'm a Passionate Software Engineer with over 6 years of experience crafting and enhancing web applications. I love Go, Rust, and TS, and I build robust and scalable apps with Kafka, Redis, and Kubernetes.
+I enjoy solving engineering problems through clean design, thoughtful architecture, and continuous improvement.
 
-As a dedicated Software Engineer with a Bachelor's degree in Computer Science, I enjoy using my obsessive attention to detail and my unequivocal love for making things that change the world. That's why I like to make things that make a difference. 
+---
 
-I'm an open-source enthusiast & maintainer, and I'd welcome the opportunity to contribute to this community by collaborating and sharing knowledge.
+## About Me
 
-My motto is focused on the software world and its development to improve society's standard of living.
+My journey in software development started with building applications and exploring different areas of programming.
 
-<br />
+Over time, my focus has moved toward backend engineering, where I enjoy working on:
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools
+- Designing and building backend services
+- Writing clean and maintainable code
+- Understanding system architecture
+- Improving software quality through testing and best practices
+- Learning from real-world codebases
 
-## <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif"/>
-          
-<code><img title="Golang" alt="golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /></code>
-<code><img title="Rust" alt="rust" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /></code>
-<code><img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-<code><img title="grpc" alt="grpc" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" /></code>
-<code><img title="NodeJS" alt="node js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></code>
-<code><img title="Python" alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+I believe great software is built through curiosity, discipline, collaboration, and continuous learning.
 
-<code><img title="neovim" alt="neovim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></code>
-<code><img title="linux" alt="linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></code>
-<code><img title="bash" alt="bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></code>
-<code><img title="nginx" alt="nginx" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></code>
-<code><img title="MongoDB" alt="MongDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
-<code><img title="Sql" alt="sql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /></code>
-<code><img title="postgresql" alt="postgresql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
-<code><img title="Graph" alt="Graph" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></code>
-<code><img title="Redis" alt="redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></code>
+---
 
-<code><img title="kafka" alt="terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" /></code>
-<code><img title="rabbit" alt="rabbit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" /></code>
-<code><img title="elastic" alt="elastic" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></code>
-<code><img title="kibana" alt="kibana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" /></code>
-<code><img title="docker" alt="docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></code>
-<code><img title="Kuber" alt="kuber" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /></code>
-<code><img title="prometheus" alt="prometheus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" /></code>
-<code><img title="grafana" alt="grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></code>
-<code><img title="ansible" alt="ansible" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" /></code>
+## Current Focus
 
+Currently focusing on:
 
+- Building backend services with Go
+- Improving system design knowledge
+- Working with databases, APIs, and backend infrastructure
+- Understanding scalable software architecture
+- Contributing to open-source projects
 
+---
 
+## Open Source
 
-<br />
+Open source has been an important part of my growth as a software engineer.
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px"> About Some Stats
+Through open-source contribution, I practice:
 
-<div align="center">
-  
-<!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmalekian&theme=algolia&line_height=40&hide=css"/> -->
-  
-<!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&show_icon=true&theme=algolia" alt="amirmalekian-langs" /> -->
+- Reading and understanding existing codebases
+- Debugging real-world problems
+- Writing maintainable changes
+- Collaborating through issues and pull requests
+- Learning from experienced developers
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amirmalekian&layout=compact&langs_count=8&theme=algolia"/>
- 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amirmalekian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-</div>
+I enjoy contributing to projects that improve my understanding of software engineering, from backend systems to developer tools.
 
-<!-- <p align="center"> -->  
-<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amirmalekian&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=0D1117" /> -->
-<!-- </p> -->
+---
 
+## Engineering Interests
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
+I am interested in:
 
-<br />
+- Backend Engineering
+- Go ecosystem
+- Distributed Systems
+- Software Architecture
+- API Design
+- Databases
+- Developer Tools
+- Open Source Software
+- System Design
 
-<p align="center">
+---
 
-<a href="mailto:amirho3einmalekian@gmail.com" target="_blank" alt="Amirhossein Malekian's E-mail">
-    <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-	
-<a href="https://www.linkedin.com/in/amirmalekian/" target="_blank" alt="Amirhossein Malekian's Linkedin">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## Technology Stack
 
-<a href="https://dev.to/amirmalekian" target="_blank" alt="Amirhossein Malekian's Dev">
-    <img src="https://img.shields.io/badge/Dev.to-12100E?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
+### Languages
 
-<a href="https://stackoverflow.com/users/14816783/amirhossein" target="_blank" alt="Amirhossein Malekian's Stackoverflow">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
+- Go
+- TypeScript
+- Python
+- SQL
+- Bash
 
-<p> 
- 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=F38F02&center=true&vCenter=true&width=300&height=50&lines=Thanks+for+your+visit!;Have+a+nice+day!;" alt="Footer"></img>
-</div>
+### Backend
+
+- REST APIs
+- gRPC
+- PostgreSQL
+- Redis
+- MongoDB
+- Message Queues
+
+### Infrastructure
+
+- Linux
+- Docker
+- Kubernetes
+- Nginx
+- Terraform
+- CI/CD
+- Monitoring & Observability
+
+---
+
+## Engineering Principles
+
+Things I value:
+
+- Understanding problems before writing solutions
+- Simple designs over unnecessary complexity
+- Writing code that others can maintain
+- Continuous improvement through feedback
+- Learning from real-world systems
+- Building software with long-term impact
+
+---
+
+## Let's Connect
+
+📧 Email  
+amirmalekian.dev@gmail.com
+
+💼 LinkedIn  
+https://linkedin.com/in/amirmalekian
+
+🌐 Website  
+https://amirmalekian.me
+
+---
+
+⭐ Always learning. Always building.
