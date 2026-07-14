@@ -15,8 +15,6 @@ I build reliable and maintainable software, design backend services, and enjoy s
 
 Open source contributor passionate about continuous improvement, learning from real-world codebases, and collaborating with other developers.
 
-<br />
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools
 
 <div align="center">
@@ -48,11 +46,7 @@ Open source contributor passionate about continuous improvement, learning from r
 <code><img title="ansible" alt="ansible" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" /></code>
 </div>
 
-<br />
-
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px">Connect with me:
-
-<br />
 
 <p align="center">
 
