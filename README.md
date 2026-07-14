@@ -26,7 +26,8 @@ Open source contributor passionate about continuous improvement, learning from r
 <code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="neovim" alt="neovim" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" /></code>
 <code><img title="linux" alt="linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></code>
-
+</br>
+</br>
 <code><img title="bash" alt="bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /></code>
 <code><img title="nginx" alt="nginx" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></code>
 <code><img title="MongoDB" alt="MongDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
@@ -35,7 +36,8 @@ Open source contributor passionate about continuous improvement, learning from r
 <code><img title="Graph" alt="Graph" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></code>
 <code><img title="Redis" alt="redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /></code>
 <code><img title="kafka" alt="terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" /></code>
-
+</br>
+</br>
 <code><img title="rabbit" alt="rabbit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" /></code>
 <code><img title="elastic" alt="elastic" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></code>
 <code><img title="kibana" alt="kibana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" /></code>
