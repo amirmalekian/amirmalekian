@@ -56,7 +56,7 @@ Open source contributor passionate about continuous improvement, learning from r
 
 <p align="center">
 
-<a href="mailto:amirho3einmalekian@gmail.com" target="_blank" alt="Amirhossein Malekian's E-mail">
+<a href="mailto:amirmalekian.dev@gmail.com" target="_blank" alt="Amirhossein Malekian's E-mail">
     <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 	
