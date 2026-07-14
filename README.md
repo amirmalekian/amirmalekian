@@ -16,7 +16,8 @@ I build reliable and maintainable software, design backend services, and enjoy s
 Open source contributor passionate about continuous improvement, learning from real-world codebases, and collaborating with other developers.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px"> Languages and Tools
-
+</br>
+</br>
 <div align="center">
 <code><img title="Golang" alt="golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /></code>
 <code><img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
